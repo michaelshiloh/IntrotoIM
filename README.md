@@ -10,3 +10,7 @@ etc.
 this is a new paragraph. here is my robot.
 
 how do I make **this** bold?
+
+Here is an image that is on the web:
+
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/eye-calipers.jpg)
