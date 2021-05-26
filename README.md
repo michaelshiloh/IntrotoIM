@@ -18,3 +18,11 @@ Here is an image that is on the web:
 Here I am including the file with locally
 
 ![](hotdogLEDs.jpg)
+
+Here is the code I had trouble with:
+
+````
+circle(12,23,34);
+size(100,110);
+line(1,2,3,4);
+````
